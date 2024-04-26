@@ -1,1 +1,2 @@
-#Hello Git!
+# Hollo Git!!
+kenta tomie
